@@ -14,4 +14,4 @@
 
 <i> which follows according to the motion in a plane (2-D). </i>
 
-Visit here to [read more](https://github.com/ajay-deshmukh/gravity-simulation/blob/master/files/presentation/Gravity_simulator_Desktop_App.pdf) or watch the [demo](https://youtu.be/U8Aqx73oYvM) of the application.
+Visit here to [read more](https://github.com/ajay-deshmukh/gravity-simulator/blob/master/files/presentation/Gravity_simulator_Desktop_App.pdf) or watch the [demo](https://youtu.be/U8Aqx73oYvM) of the application.
